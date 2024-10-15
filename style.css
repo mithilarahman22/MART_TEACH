@@ -26,8 +26,13 @@ ul li{
     text-decoration: none;
     color: rgb(250, 250, 251);
 }
+
+
+
 .header-design{
     display: flex;
+    width: 80%;
+    margin: auto;
     padding-top: 40px;
 }
 .header-p{
@@ -46,7 +51,6 @@ ul li{
 }
 .header-img{
    height: 240px;
-   padding-left: 100px;
    border-radius: 9px;
 }
 .card-header{
@@ -111,6 +115,7 @@ footer{
     padding:12px;
 }
 .list-item-h{
+    color: rgb(47, 249, 215);
     padding: 12px;
     font-size: 20px;
 }
